@@ -15,7 +15,7 @@ Consumo ( en metros cúbicos)
 
 € por metro cúbico
 
-Primeros 100  
+Primeros 10
 
 0.15
 
